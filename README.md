@@ -4,7 +4,7 @@ This template repository is the starter project for Web Services final exam. Wri
 
 ### Question(s)
 
-Create a Gift & Plants Delivery page (a single page is enough) that has the following functionalities:
+Create a Product and Quotes page (a single page is enough) that has the following functionalities:
 
 - **(%8)** A list of random items from an ecommerce product API (7 items)
 - **(%8)** A list of random quotes (7 items) from another API
